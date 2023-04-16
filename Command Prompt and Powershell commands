@@ -1,0 +1,10 @@
+3.3.11
+Lab - Using Windows PowerShell
+
+dir
+ping, cd, ipconfig
+PS C : \Users\User> Get-Alias dir
+netstat -h
+netstat -r
+netstat -abno
+clear-recyclebin
